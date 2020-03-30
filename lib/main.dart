@@ -4,14 +4,6 @@ import 'package:flutter/services.dart';
 
 void main() => runApp(App());
 
-
-/*void main(){
-  runApp(MaterialApp(
-    home:Jogo(),
-    debugShowCheckedModeBanner: false,
-  ));
-}*/
-
 class App extends StatelessWidget{
   static const String _title = 'Joken Po';
 
